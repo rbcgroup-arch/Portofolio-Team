@@ -25,7 +25,6 @@ Website portfolio statis untuk team **Republic Barudak Coding**. Halaman ini men
 |-- img/
 |-- deploy/
 |   `-- nginx-republic-barudak-coding.conf
-`-- DEPLOY_VPS.md
 ```
 
 ## Menjalankan Secara Lokal
@@ -34,10 +33,6 @@ Karena ini static website, tidak perlu build step.
 
 1. Buka folder project.
 2. Jalankan dengan Live Server, atau buka `index.html` langsung di browser.
-
-## Deploy Ke VPS
-
-Panduan deploy tersedia di [DEPLOY_VPS.md](./DEPLOY_VPS.md).
 
 ## Tech Stack
 
